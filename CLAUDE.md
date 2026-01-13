@@ -34,5 +34,22 @@ Translated for Ralph's friend in Germany. Key decisions documented in german-sto
 - Kept "Mind" untranslated for Culture fans
 - All characters use informal "du" with each other
 
+## GitHub Repository
+**URL:** https://github.com/coderalph/the-quiet-things
+
+This project is version-controlled with git and hosted on GitHub (public repository).
+
+**Setup completed:**
+- Git configured with Ralph's GitHub credentials
+- GitHub CLI (`gh`) installed and authenticated as @coderalph
+- All files pushed to the `main` branch
+
+**To push updates after making changes:**
+```
+git add .
+git commit -m "Description of changes"
+git push
+```
+
 ## Working style
 Ralph prefers questions to clarify direction. Keep things accessible and non-technical.
