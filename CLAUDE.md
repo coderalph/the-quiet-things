@@ -16,6 +16,8 @@ A romantic comedy set in a post-scarcity future (Culture-like setting).
 - `story-analysis.md` - Review, analysis, and suggestions for improving the story
 - `story-german.md` - German translation: "Die stillen Dinge"
 - `german-story-notes.md` - Translation notes, guiding principles, and specific decisions
+- `index.html` - GitHub Pages website (landing page for non-technical visitors)
+- `story-image.png` - Illustration for the website (generated with Nanobanana)
 
 ## Status
 Story finalized. German translation complete.
@@ -50,6 +52,11 @@ git add .
 git commit -m "Description of changes"
 git push
 ```
+
+## GitHub Pages Website
+**URL:** https://coderalph.github.io/the-quiet-things/
+
+A friendly landing page for sharing with non-technical readers. Includes the story description, links to read in English or German, the "About This Project" section explaining the collaboration, and behind-the-scenes links.
 
 ## Working style
 Ralph prefers questions to clarify direction. Keep things accessible and non-technical.
