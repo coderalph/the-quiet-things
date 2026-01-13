@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Quiet Things - A Short Story</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Georgia, 'Times New Roman', serif;
+            background-color: #faf8f5;
+            color: #3d3d3d;
+            line-height: 1.7;
+        }
+
+        .container {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 3rem 1.5rem;
+        }
+
+        /* Header */
+        header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid #e0dcd5;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: normal;
+            color: #2c2c2c;
+            margin-bottom: 0.5rem;
+            letter-spacing: 0.02em;
+        }
+
+        .subtitle {
+            font-style: italic;
+            color: #6b6560;
+            font-size: 1.1rem;
+        }
+
+        /* Sections */
+        section {
+            margin-bottom: 3rem;
+        }
+
+        h2 {
+            font-size: 1.3rem;
+            font-weight: normal;
+            color: #5c5550;
+            margin-bottom: 1rem;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+        }
+
+        p {
+            margin-bottom: 1rem;
+        }
+
+        /* Story description */
+        .story-description {
+            font-size: 1.1rem;
+            text-align: center;
+            padding: 0 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .story-image {
+            text-align: center;
+            margin: 2rem 0;
+        }
+
+        .story-image img {
+            max-width: 100%;
+            border-radius: 6px;
+            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Read links */
+        .read-links {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            flex-wrap: wrap;
+            margin: 2rem 0;
+        }
+
+        .read-link {
+            text-align: center;
+        }
+
+        .read-link a {
+            display: block;
+            padding: 1rem 2rem;
+            background-color: #f0ebe4;
+            color: #4a4540;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: background-color 0.2s;
+        }
+
+        .read-link a:hover {
+            background-color: #e5ded4;
+        }
+
+        .read-link .lang {
+            font-size: 1.1rem;
+            font-weight: bold;
+        }
+
+        .read-link .title {
+            font-style: italic;
+            font-size: 0.9rem;
+            color: #6b6560;
+            margin-top: 0.25rem;
+        }
+
+        /* About section */
+        .about {
+            background-color: #f5f2ed;
+            padding: 2rem;
+            border-radius: 6px;
+        }
+
+        .about p:last-child {
+            margin-bottom: 0;
+        }
+
+        /* Behind the scenes */
+        .file-list {
+            list-style: none;
+        }
+
+        .file-list li {
+            padding: 0.75rem 0;
+            border-bottom: 1px solid #e8e4de;
+        }
+
+        .file-list li:last-child {
+            border-bottom: none;
+        }
+
+        .file-list a {
+            color: #5c7c6a;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .file-list a:hover {
+            text-decoration: underline;
+        }
+
+        .file-list .description {
+            color: #6b6560;
+            font-size: 0.95rem;
+            margin-top: 0.25rem;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding-top: 2rem;
+            border-top: 1px solid #e0dcd5;
+            color: #8a857e;
+            font-size: 0.9rem;
+        }
+
+        footer a {
+            color: #6b6560;
+        }
+
+        .byline {
+            margin-top: 1rem;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>The Quiet Things</h1>
+            <p class="subtitle">A short story about love, miscommunication, and the spaces we make for each other</p>
+        </header>
+
+        <section>
+            <p class="story-description">
+                Set in a post-scarcity future inspired by Iain M. Banks' Culture series,
+                this romantic comedy explores what happens when a quiet artist tries too hard
+                to impress the woman he loves—and learns that she fell for the small moments,
+                not the grand gestures.
+            </p>
+
+            <div class="story-image">
+                <img src="story-image.png" alt="A cozy observation room on a space station, with two armchairs facing a window looking out at the stars, warm lamp light, and string lights">
+            </div>
+
+            <div class="read-links">
+                <div class="read-link">
+                    <a href="story-draft.md">
+                        <span class="lang">Read in English</span>
+                        <span class="title">"The Quiet Things"</span>
+                    </a>
+                </div>
+                <div class="read-link">
+                    <a href="story-german.md">
+                        <span class="lang">Lesen auf Deutsch</span>
+                        <span class="title">"Die stillen Dinge"</span>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section class="about">
+            <h2>About This Project</h2>
+            <p>
+                This was my first time using Claude Code, and I'm not a programmer—I'm a writer.
+                I wanted to see what collaborating with AI on a creative project would actually feel like.
+            </p>
+            <p>
+                What I discovered surprised me. It wasn't like talking to a tool—it was like working
+                with a thoughtful collaborator. We built the story together: characters, structure, scenes.
+                When the first draft was done, we analyzed it and made revisions. Then, because I have
+                a friend in Germany, we translated the whole thing into German, carefully thinking
+                through each decision.
+            </p>
+            <p>
+                I love science fiction, and Iain M. Banks has always been an inspiration. There's
+                something wonderful about his Culture novels—the idea of a future where material needs
+                are solved and the stakes become purely emotional. That's what we tried to capture here:
+                a romantic comedy where the only question is whether two people can understand each other.
+            </p>
+            <p>
+                All of that work is here. This project shows that Claude Code isn't just for programmers.
+                If you have an idea and the curiosity to explore it, you can create something meaningful too.
+            </p>
+            <p>
+                For the more adventurous, the <a href="https://github.com/coderalph/the-quiet-things">GitHub project</a>
+                has everything—including the notes I kept for working with Claude. You might look at it and think,
+                "That doesn't look that hard." It isn't.
+            </p>
+        </section>
+
+        <section>
+            <h2>Behind the Scenes</h2>
+            <ul class="file-list">
+                <li>
+                    <a href="story-notes.md">Story Notes</a>
+                    <p class="description">The planning document where we developed characters, plot structure, and scene outlines</p>
+                </li>
+                <li>
+                    <a href="story-analysis.md">Story Analysis</a>
+                    <p class="description">Our review of the first draft and the revisions we decided to make</p>
+                </li>
+                <li>
+                    <a href="german-story-notes.md">Translation Notes</a>
+                    <p class="description">How we approached the German translation, including key decisions and guiding principles</p>
+                </li>
+            </ul>
+        </section>
+
+        <footer>
+            <p>
+                Released under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a> —
+                no rights reserved. Do whatever you like with it.
+            </p>
+            <p class="byline">Written by Ralph and Claude, January 2025</p>
+        </footer>
+    </div>
+</body>
+</html>
