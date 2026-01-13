@@ -16,6 +16,7 @@ A romantic comedy set in a post-scarcity future (Culture-like setting).
 - `story-analysis.md` - Review, analysis, and suggestions for improving the story
 - `story-german.md` - German translation: "Die stillen Dinge"
 - `german-story-notes.md` - Translation notes, guiding principles, and specific decisions
+- `story-analysis-german.md` - Gemini's review of the German translation with polish suggestions
 - `index.html` - GitHub Pages website (landing page for non-technical visitors)
 - `story-image.png` - Illustration for the website (generated with Nanobanana)
 
@@ -35,6 +36,10 @@ Translated for Ralph's friend in Germany. Key decisions documented in german-sto
 - Ship name: *Geduld für kleine Gnaden*
 - Kept "Mind" untranslated for Culture fans
 - All characters use informal "du" with each other
+
+Post-translation polish based on Gemini's review (story-analysis-german.md):
+- Changed "Fertigungsalcove" to "Fertigungsnische" (more natural German)
+- Changed "Vorstellung" to "Inszenierung" (clearer meaning for "performance")
 
 ## GitHub Repository
 **URL:** https://github.com/coderalph/the-quiet-things

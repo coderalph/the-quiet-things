@@ -12,7 +12,7 @@ Er war schon zweimal am Brunnen gewesen, ohne tatsächlich etwas zu holen. Es wa
 
 Also: der Brunnen. Das langsam fallende Licht. Die goldenen Vögel über ihm, die sich zu etwas formierten, das vielleicht ein Witz in einer Sprache war, die Tomas nicht erkannte.
 
-Er beobachtete eine Frau auf der anderen Seite des Platzes, die den Ärmel von jemandem zurechtrückte—eine kleine Sache, kaum bewusst—und dachte darüber nach, wie Menschen sich bewegen, wenn sie nicht wissen, dass sie beobachtet werden. Die tausend winzigen Anpassungen, die unterhalb der Ebene der Vorstellung geschehen.
+Er beobachtete eine Frau auf der anderen Seite des Platzes, die den Ärmel von jemandem zurechtrückte—eine kleine Sache, kaum bewusst—und dachte darüber nach, wie Menschen sich bewegen, wenn sie nicht wissen, dass sie beobachtet werden. Die tausend winzigen Anpassungen, die unterhalb der Ebene der Inszenierung geschehen.
 
 „Du schaust auf ihre Hände."
 
@@ -64,7 +64,7 @@ Hinter ihnen explodierten die goldenen Vögel in einem Schauer harmloser Funken,
 
 Sie kam zum ersten Mal spontan in sein Atelier—„Ich will sehen, wie sich Räume anfühlen, wenn du sie erschaffst"—und blieb am Ende sechs Stunden.
 
-Das Atelier war klein, eingebettet in einen Wohnsporn an der westlichen Krümmung des Habitats. Morgenlicht fiel in einem Winkel durch das Fenster, den Tomas eine Woche lang mit den Systemen des Raums justiert hatte. Es gab eine Fertigungsalcove, einen breiten Tisch voller Materialproben und eine Ecke, in der halbfertige Kompositionen in Suspensionsfeldern warteten wie eingefrorene Gedanken.
+Das Atelier war klein, eingebettet in einen Wohnsporn an der westlichen Krümmung des Habitats. Morgenlicht fiel in einem Winkel durch das Fenster, den Tomas eine Woche lang mit den Systemen des Raums justiert hatte. Es gab eine Fertigungsnische, einen breiten Tisch voller Materialproben und eine Ecke, in der halbfertige Kompositionen in Suspensionsfeldern warteten wie eingefrorene Gedanken.
 
 „Das ist nicht, was ich erwartet habe", sagte Veda und ließ einen Finger an der Tischkante entlanggleiten.
 
